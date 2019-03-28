@@ -4,7 +4,9 @@ Multiple language and WhatsApp sharing buttons have been added with several modi
 
 &nbsp;
 
-![screenshot-desktop](https://user-images.githubusercontent.com/120485/27221326-1e31d326-5280-11e7-866d-82d550a7683b.jpg)
+![screenshot-desktop](https://user-images.githubusercontent.com/26842312/55155509-9208a700-5168-11e9-9822-57335b84bbf6.png)
+
+![screenshot-desktop](https://user-images.githubusercontent.com/26842312/55155513-946b0100-5168-11e9-9874-b80f42bf90ee.png)
 
 &nbsp;
 
